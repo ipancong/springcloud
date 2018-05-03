@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/microservicecloud.iml" filepath="$PROJECT_DIR$/microservicecloud.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microservicecloudapi/microservicecloud-api.iml" filepath="$PROJECT_DIR$/microservicecloudapi/microservicecloud-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microservicecloudconsumerdept80/microservicecloudconsumerdept80.iml" filepath="$PROJECT_DIR$/microservicecloudconsumerdept80/microservicecloudconsumerdept80.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microservicecloudprovicerdept8001/microservicecloudprovicerdept8001.iml" filepath="$PROJECT_DIR$/microservicecloudprovicerdept8001/microservicecloudprovicerdept8001.iml" />
+    </modules>
+  </component>
+</project>
