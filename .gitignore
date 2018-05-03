@@ -1,0 +1,35 @@
+# Created by .ignore support plugin (hsz.mobi)
+### Java template
+# Compiled class file
+*.class
+
+# Log file
+*.log
+
+# BlueJ files
+*.ctxt
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
+
+.gitignore
+.idea/inspectionProfiles/
+.idea/workspace.xml
+microservicecloudapi/src/main/resources/
+microservicecloudapi/src/test/
+microservicecloudapi/target/
+microservicecloudconsumerdept80/src/test/
+microservicecloudconsumerdept80/target/
+microservicecloudprovicerdept8001/src/test/
+microservicecloudprovicerdept8001/target/
